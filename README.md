@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<iframe src="https://www.loom.com/embed/7c65fab716a94a4ea014c65afd7d3643?sid=765e3655-6d94-473c-8420-28284985a965" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="width: 100%; height: 500px;"></iframe>
+"https://www.loom.com/embed/7c65fab716a94a4ea014c65afd7d3643?sid=765e3655-6d94-473c-8420-28284985a965" 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Loom.  
 <!-- Recommended tools:
